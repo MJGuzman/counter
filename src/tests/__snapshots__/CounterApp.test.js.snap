@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en el componente del contador Debe de mostrar el componente correctamente 1`] = `
+<div>
+  <h1>
+    Contador
+  </h1>
+  <h2>
+    10
+  </h2>
+  <div>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Incrementar
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Reset
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Decrease
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Prueba en el componente del contador Debe de mostrar el valor por defecto 100 1`] = `
+<div>
+  <h1>
+    Contador
+  </h1>
+  <h2>
+    10
+  </h2>
+  <div>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Incrementar
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Reset
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Decrease
+    </button>
+  </div>
+</div>
+`;
